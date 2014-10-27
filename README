@@ -1,0 +1,8 @@
+testunit
+========
+basic requirements:
+sudo apt-get install gcc g++ binutils
+sudo apt-get install libtool automake autoconf pkg-config
+
+md5test requires the following deb packages:
+sudo apt-get install libssl-dev
